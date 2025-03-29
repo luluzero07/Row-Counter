@@ -1,2 +1,2 @@
-# Row-Counter
+# Coffee-Counter
 A normal counter app built with HTML, CSS, JavaScript
